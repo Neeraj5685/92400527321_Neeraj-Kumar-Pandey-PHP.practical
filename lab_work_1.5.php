@@ -1,12 +1,12 @@
 <?php
-echo "Using For Loop:<br>";
+echo "Using For Loop\n";
 
-for($i = 5; $i <= 10; $i++)
+for($i=5; $i<=10; $i++)
 {
     echo $i . " ";
 }
 
-echo "<br><br>Using ForEach Loop:<br>";
+echo "\nUsing ForEach Loop\n";
 
 $arr = array(5,6,7,8,9,10);
 
