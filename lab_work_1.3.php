@@ -2,9 +2,9 @@
 $a = 20;
 $b = 10;
 
-echo "Addition = " . ($a + $b) . "<br>";
-echo "Subtraction = " . ($a - $b) . "<br>";
-echo "Multiplication = " . ($a * $b) . "<br>";
-echo "Division = " . ($a / $b) . "<br>";
-echo "Modulus = " . ($a % $b) . "<br>";
+echo "Addition = " . ($a + $b) . "\n";
+echo "Subtraction = " . ($a - $b) . "\n";
+echo "Multiplication = " . ($a * $b) . "\n";
+echo "Division = " . ($a / $b) . "\n";
+echo "Modulus = " . ($a % $b) . "\n";
 ?>
