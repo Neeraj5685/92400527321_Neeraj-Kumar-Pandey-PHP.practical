@@ -2,21 +2,21 @@
 $month = date("m");
 
 if($month == 1)
-    echo "January<br>";
+    echo "January\n";
 else if($month == 2)
-    echo "February<br>";
+    echo "February\n";
 else if($month == 3)
-    echo "March<br>";
+    echo "March\n";
 else if($month == 4)
-    echo "April<br>";
+    echo "April\n";
 else if($month == 5)
-    echo "May<br>";
+    echo "May\n";
 else if($month == 6)
-    echo "June<br>";
+    echo "June\n";
 else
-    echo "Other Month<br>";
+    echo "Other Month\n";
 
-echo "<br>Using Switch Case:<br>";
+echo "\nUsing Switch Case\n";
 
 switch($month)
 {
